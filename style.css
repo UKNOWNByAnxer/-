@@ -77,7 +77,6 @@ body {
 }
 
 .envelope > .letter.expanded {
-    width: 80%;
     height: auto;
     transition: width var(--transition-duration), height var(--transition-duration);
 }
